@@ -1,0 +1,6 @@
+[submodule "3rd/argtable3"]
+	path = 3rd/argtable3
+	url = https://github.com/argtable/argtable3
+[submodule "3rd/EasyLogger"]
+	path = 3rd/EasyLogger
+	url = https://github.com/armink/EasyLogger
